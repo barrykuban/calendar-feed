@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Outlook Calendar Feed
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000602B2EA1247FDC010000000000000
- 000100000003D2E463C86498A4687B3199FEA6E4726
-DTSTAMP:20260108T191529Z
-DTSTART:20260108T193000Z
-DTEND:20260108T203000Z
-SUMMARY:Follow up on dev work - IDF 2023-176
-LOCATION:MDS
-DESCRIPTION:Now that 100st is now open\, let’s meet at MDS.  Looking forw
- ard to seeing the working prototype and discuss next steps.  \n\n \n\nSha
- her\n\n \n\n_____________________________________________\nFrom: Kashkous
- h\, Ahmed I. <KASHKOA@ccf.org <mailto:KASHKOA@ccf.org> > \nSent: Tuesday\
- , January 6\, 2026 3:29 PM\nTo: Kuban\, Barry <Kubanb@ccf.org <mailto:Kub
- anb@ccf.org> >\; Ahmad\, Shaher <AHMADS6@ccf.org <mailto:AHMADS6@ccf.org>
-  >\nCc: West\, Karl <westk2@ccf.org <mailto:westk2@ccf.org> >\; Gao\, She
- ngqiang <ga...
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E008000000002812F3285C7EDC010000000000000
  0001000000068322053894CBC40BB912CD17C0E1720
 DTSTAMP:20260112T170213Z
