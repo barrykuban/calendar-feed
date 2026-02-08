@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Outlook Calendar Feed
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E008000000002812F3285C7EDC010000000000000
- 0001000000068322053894CBC40BB912CD17C0E1720
-DTSTAMP:20260112T170213Z
-DTSTART:20260109T200000Z
-DTEND:20260109T203000Z
-SUMMARY:MDS Transition Update
-LOCATION:Microsoft Teams Meeting
-DESCRIPTION:Hello Everyone\,\n\nSorry for the confusion. I forgot to upda
- te the time to 3pm before sending it to the team. The correct time is Fri
- day at 3pm.\n\nThank you\,\nColleen\n____________________________________
- ____________________________________________\nMicrosoft Teams Need help? 
- <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <http
- s://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTc5MGQ3ZjAtMDA4OC00OT
- AwLTgzYTAtMWExMjU1NjkxMzQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22cf7ff6
- 5a-...
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000F09925C4A580DC010000000000000
  000100000008515069D354F42418ED0555E4A6F5679
 DTSTAMP:20260112T170229Z
