@@ -238,6 +238,24 @@ DESCRIPTION: \n\n________________________________________________________
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000B0EBA9C8E299DC010000000000000
+ 00010000000D652BF10C07EF64CA013908183F50711
+DTSTAMP:20260209T214617Z
+DTSTART:20260210T150000Z
+DTEND:20260210T160000Z
+SUMMARY:Project Overviews - CCI/POC Electronics Core
+LOCATION:Microsoft Teams Meeting
+DESCRIPTION:Projects to overview:\n\n \n\n2024-102 Stair Ventilation\n\n2
+ 024-216 Transvulvular Pacing Device\n\n2024-138 Titrating Airflow Device\
+ n\n2026-005 LARA Smartbend (Linear Automated Rod Adjuster)\n\n___________
+ _____________________________________________________________________\n\n
+ Microsoft Teams meeting \n\nJoin: https://teams.microsoft.com/meet/272325
+ 24335858?p=ySWQsCYAph1E9k56R4 <https://teams.microsoft.com/meet/272325243
+ 35858?p=ySWQsCYAph1E9k56R4>  \n\nMeeting ID: 272 325 243 358 58 \n\nPassc
+ o...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E008000000001A1100C93791DC010000000000000
  00010000000743F78A74C1D5C498E407F37CDF3265D
 DTSTAMP:20260209T142810Z
