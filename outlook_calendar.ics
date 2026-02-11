@@ -313,20 +313,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00807EA020C841DE322637EDC010000000000000
  000100000005831BEAE606BC44DA0EAAE2E00232648
-DTSTAMP:20260211T095251Z
+DTSTAMP:20260211T192525Z
 DTSTART:20260212T180000Z
 DTEND:20260212T190000Z
-SUMMARY:SLR Seminar Series: Molecular Biotechnology Core
+SUMMARY:Canceled: SLR Seminar Series: Molecular Biotechnology Core
 LOCATION:NE1-205 & Teams
-DESCRIPTION:Please join us in-person or virtually for the Shared Laborato
- ry Resources Seminar Series featuring the Molecular Biotechnology Core\, 
- presented by Smarajit Bandyopadhyay\, PhD and Jun Yang\, PhD.\n\n\n\n____
- _________________________________________________________________________
- ___\nMicrosoft Teams meeting \nJoin: https://teams.microsoft.com/meet/274
- 02892004319?p=88EyXX3izqDJo8AiPJ \nMeeting ID: 274 028 920 043 19 \nPassc
- ode: Yc62ff27 \n________________________________\n\nNeed help? <https://a
- ka.m...
-TRANSP:OPAQUE
+DESCRIPTION:POSTPONED: NEW DATE & TIME TBD
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E008000000007008D4D8479BDC010000000000000
