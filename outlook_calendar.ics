@@ -300,14 +300,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000D2B4DCDD1395DC010000000000000
  00010000000435DDE6DA3953947A9460DDCEDA40D70
-DTSTAMP:20260203T175358Z
+DTSTAMP:20260212T042357Z
 DTSTART:20260212T150000Z
 DTEND:20260212T160000Z
-SUMMARY:MDS Equipment Review
-LOCATION:"NB2-09"
-DESCRIPTION:Hello\,\n\nThis meeting has been scheduled to review all the 
- equipment needs of the MDS cores.\n\nLocation: \nIn person - NB2-09\n\nTh
- ank you\,\nColleen
+SUMMARY:MDS Equipment Review - ND2-40
+LOCATION:"ND2-40"
+DESCRIPTION:Hello\,\n\nThe location of this meeting has changed. \n\nLoca
+ tion: \nIn person - ND2-40\n\nThank you\,\nColleen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000CDD80D95D19BDC010000000000000
+ 000100000001B5B146C1BCA8142A345740371417D9D
+DTSTAMP:20260212T034529Z
+DTSTART:20260213T130000Z
+DTEND:20260213T140000Z
+SUMMARY:Review Project Ultrasound Needs and Pulse Sequences
+LOCATION:Microsoft Teams Meeting
+DESCRIPTION:I will have description of pulse sequences needed and desired
+  sent by Thur night.\n\nGoals: \n\n1.	\n	Get to know the system\n2.	\n	Re
+ view the desired pulse sequences\n3.	\n	Discuss changes needed to address
+  future needs\n\n\n\n____________________________________________________
+ ____________________________\nMicrosoft Teams meeting \nJoin: https://tea
+ ms.microsoft.com/meet/28482124555878?p=SloayaTP5mkuxCKXfk \nMeeting ID: 2
+ 84 821 245 558 78 \nPasscode: 9zH9yL9x \n________________________________
+ \n...
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
