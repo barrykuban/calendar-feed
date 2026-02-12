@@ -354,6 +354,24 @@ DESCRIPTION:Please join us for the 2025 SLR Town Hall!\n\nWe will celebra
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000E0876AE33D9CDC010000000000000
+ 000100000009AFEA68A678B434993C33805666BB983
+DTSTAMP:20260212T215518Z
+DTSTART:20260213T203000Z
+DTEND:20260213T211500Z
+SUMMARY:2024-186 Cervical Monitoring Device - Overview and Plan
+LOCATION:Microsoft Teams Meeting
+DESCRIPTION:This project has passed Go-NoGo and currently sits in Active 
+ Business Development (Discussions with external company in March re. pote
+ ntial co-development).\n\nIt will be unlikely that it will be picked up a
+ t this stage (no POC or development) has been done yet. However\, I wante
+ d to provide an overview of the idea and the development plan to start th
+ e process of mapping out the finances for this project. \n\n_____________
+ ___________________________________________________________________\n\nMi
+ cr...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000020FE5CABDE99DC010000000000000
  00010000000D7FC81D801F2204B83CC2CCDA1A7EEC5
 DTSTAMP:20260209T211207Z
