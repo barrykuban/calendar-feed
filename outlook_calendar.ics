@@ -312,9 +312,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000CDD80D95D19BDC010000000000000
  000100000001B5B146C1BCA8142A345740371417D9D
-DTSTAMP:20260212T034529Z
+DTSTAMP:20260212T155841Z
 DTSTART:20260213T130000Z
-DTEND:20260213T140000Z
+DTEND:20260213T153000Z
 SUMMARY:Review Project Ultrasound Needs and Pulse Sequences
 LOCATION:Microsoft Teams Meeting
 DESCRIPTION:I will have description of pulse sequences needed and desired
@@ -407,6 +407,25 @@ DTEND:20260218T193000Z
 SUMMARY:Research Associate and Project Scientist Meeting
 LOCATION:NC1-202
 DESCRIPTION: \n
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000000000000000000000000000000000
+ 000310000007643616C2D5569640100000061353538323061382D633636312D346662382D
+ 383136622D37663936646231363864346100
+DTSTAMP:20260212T155521Z
+DTSTART:20260220T193000Z
+DTEND:20260220T203000Z
+SUMMARY:RETC Career Development Series | How Is That Even Possible: Advan
+ ced AI Hacks with Jeremy Schifeling
+DESCRIPTION:PROCEED WITH CAUTION: Slow down and pay close attention to em
+ ails sent from outside the organization. If you receive an unsolicited em
+ ail from an unknown sender or are suspicious of the tone\, style\, vocabu
+ lary or urgency of the email message\, never click links or open attachme
+ nts within it. When in doubt\, you should either delete the email\, verif
+ y its authenticity by contacting the sender using an alternative method n
+ ot listed in the email\, or submit it via the Report button in Outlook fo
+ r inves...
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
