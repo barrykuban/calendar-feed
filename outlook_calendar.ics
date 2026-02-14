@@ -6,28 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Outlook Calendar Feed
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E0080000000000000000000000000000000000000
- 0003C0000007643616C2D556964010000006239376B756A396D366771336363316E366B72
- 6A3464706B6464716D346F626563393036366F723635706E6E34706F00
-DTSTAMP:20260116T143953Z
-DTSTART:20260115T080000Z
-DTEND:20260115T090000Z
-SUMMARY:ESAO-IFAO Webinar
-LOCATION:https://donau-uni.zoom.us/w/64460757274?tk=ktJWkaoCqX0hJS4SfxKdU
- npR4gWIekmymcjTspzo-iI.DQkAAAAPAikZGhZSbXFUNERQd1Q1R0VzT1pvdVdWVkhnAAAAAA
- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=oGzzv6xF21IjgehZvBkKJa1Bfzp9Ra.
- 1&uuid=WN_oDwiPsiYREegi1OWW42oLA
-DESCRIPTION:PROCEED WITH CAUTION: Slow down and pay close attention to em
- ails sent from outside the organization. If you receive an unsolicited em
- ail from an unknown sender or are suspicious of the tone\, style\, vocabu
- lary or urgency of the email message\, never click links or open attachme
- nts within it. When in doubt\, you should either delete the email\, verif
- y its authenticity by contacting the sender using an alternative method n
- ot listed in the email\, or submit it via the Report button in Outlook fo
- r inves...
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000509531DDD183DC010000000000000
  0001000000049490873D349FA48AA73613E4762213E
 DTSTAMP:20260116T143954Z
