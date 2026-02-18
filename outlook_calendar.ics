@@ -432,6 +432,24 @@ DESCRIPTION:Please accept this invitation to meet with Dr. George Komatso
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000030FA0352D495DC010000000000000
+ 000100000009B6A41C71BE96A47A85688D032429F38
+DTSTAMP:20260218T172917Z
+DTSTART:20260306T160000Z
+DTEND:20260306T170000Z
+SUMMARY:BME Department Seminar: Kia Nazarpour\, PhD
+LOCATION:NE1-205\; / MS Teams
+DESCRIPTION:Please pass this along to anyone in your groups who might be 
+ interested and let Kathe Derwin (derwink@ccf.org <mailto:derwink@ccf.org>
+  ) know if you’d like to schedule a 30-minute meeting with Dr. Nazarpour 
+ in the morning or afternoon of March 6.\n\n \n\n\n\n_____________________
+ ___________________________________________________________\n\nMicrosoft 
+ Teams meeting \n\nJoin: https://teams.microsoft.com/meet/23294241226059?p
+ =u3EfpRoVKMWLjbiHrB <https://teams.microsoft.com/meet/23294241226059?p=u3
+ E...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000CCB8889AA280DC010000000000000
  00010000000237BF2F30449844EB4B375173FE6E65A
 DTSTAMP:20260210T151703Z
