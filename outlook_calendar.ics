@@ -366,6 +366,24 @@ DESCRIPTION:PROCEED WITH CAUTION: Slow down and pay close attention to em
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000456AF091E2A1DC010000000000000
+ 00010000000B616F4B403DFBB45927B0CA3F7BBCAB7
+DTSTAMP:20260219T211012Z
+DTSTART:20260224T200000Z
+DTEND:20260224T213000Z
+SUMMARY:Columbus 3D Printer Review - ND2-40
+LOCATION:"ND2-40"
+DESCRIPTION:Hello\,\n\nThis meeting has been scheduled to review the 3D p
+ rinters you observed during your tour at Ohio State. If you have any phot
+ os you’d like displayed during the discussion\, please send them to me in
+  advance. Including a label with the type of printer shown in each photo 
+ would be especially helpful.\n\nRequired attendees include those who trav
+ eled to Columbus for the site visit. All others are welcome to join if th
+ ey would like to participate in the conversation.\n\nThank you\,\nColleen
+ \n
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000006C19010559FDC010000000000000
  000100000000DA84A59FAD6954E90329A5AB23C2599
 DTSTAMP:20260216T191257Z
