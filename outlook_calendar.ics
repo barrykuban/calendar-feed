@@ -425,6 +425,23 @@ DESCRIPTION:Good Morning\,\n\nThis is the recurring invitation for our mo
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000002000821720A7DC010000000000000
+ 000100000006465BFB68E0BAE43A7B6BB5DC7DF6EBA
+DTSTAMP:20260226T180423Z
+DTSTART:20260227T200000Z
+DTEND:20260227T210000Z
+SUMMARY:Follow up on dev work - IDF 2023-176
+DESCRIPTION:Let’s gather and see it as a team and decide on next steps.\n
+ \n \n\nShaher\n\n \n\n_____________________________________________\nFrom
+ : Kuban\, Barry <Kubanb@ccf.org> \nSent: Thursday\, February 26\, 2026 12
+ :53 PM\nTo: Ahmad\, Shaher <AHMADS6@ccf.org>\; Kashkoush\, Ahmed I. <KASH
+ KOA@ccf.org>\; West\, Karl <westk2@ccf.org>\; Gao\, Shengqiang <gaos@ccf.
+ org>\nCc: Deblock\, Michael <deblocm@ccf.org>\; Paul\, Partha <PAULP2@ccf
+ .org>\nSubject: RE: Follow up on dev work - IDF 2023-176\n\n \n\nGentleme
+ n\,\n\n  We hav...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000640C37E73C74DC010000000000000
  00010000000E9D033C0D0934B40BD45412BD77C170C
 DTSTAMP:20251231T165225Z
