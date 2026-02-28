@@ -572,4 +572,18 @@ DESCRIPTION:Good Morning\,\n\nThis is the recurring invitation for our mo
  flicts.\n\nThank you\,\nColleen
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000CCB8889AA280DC010000000000000
+ 00010000000237BF2F30449844EB4B375173FE6E65A
+DTSTAMP:20260226T185510Z
+DTSTART:20260827T180000Z
+DTEND:20260827T190000Z
+SUMMARY:MDS Managers' Meeting (ND2-40)
+LOCATION:"ND2-40"
+DESCRIPTION:Good Morning\,\n\nThis is the recurring invitation for our mo
+ nthly managers’ meeting. Please note that the November and December sessi
+ ons will be moved to the third Thursday of the month to avoid holiday con
+ flicts.\n\nThank you\,\nColleen
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
