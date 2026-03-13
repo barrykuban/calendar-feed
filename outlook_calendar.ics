@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Outlook Calendar Feed
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E008000000006C7821A78794DC010000000000000
- 000100000001EEB0E4388C65D4188A7DD5E55CE91DF
-DTSTAMP:20260211T161623Z
-DTSTART:20260211T150000Z
-DTEND:20260211T153000Z
-SUMMARY:Guided ERCP Meeting
-LOCATION:A3-271
-DESCRIPTION:Good Afternoon\,\n\nDr. Bhatt has unfortunately been pulled i
- n for procedures the afternoon of 2/9 and will need to reschedule this me
- eting. Please let me know if you have any available time the morning of 2
- /11 or a future Monday.\n\nDue to shown availability on outlook calendars
- \, I have tentatively rescheduled for 2/11 at 9:30am. Please let me know 
- if this time does not work.\n\nThank you\,\nSavannah\n\n_________________
- _______________________________________________________________\nMicrosof
- t Te...
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000702A7683DE95DC010000000000000
  00010000000B02FD0FEDB12214691A9133050E18BEC
 DTSTAMP:20260211T161624Z
