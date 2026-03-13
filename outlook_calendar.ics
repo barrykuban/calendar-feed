@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Outlook Calendar Feed
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000702A7683DE95DC010000000000000
- 00010000000B02FD0FEDB12214691A9133050E18BEC
-DTSTAMP:20260211T161624Z
-DTSTART:20260211T160000Z
-DTEND:20260211T170000Z
-SUMMARY:Powercut Prototype update
-LOCATION:Teams
-DESCRIPTION:We will discuss the updates of the latest prototype version. 
- \n\n\n___________________________________________________________________
- _____________\nMicrosoft Teams meeting \nJoin: https://teams.microsoft.co
- m/meet/26395484894514?p=WGGLejXNFfnBaCfBat \nMeeting ID: 263 954 848 945 
- 14 \nPasscode: LW9Cd3NC \n________________________________\n\nNeed help? 
- <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  | System reference <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_Mzc0YmJkZGMtMWI1My00MjIwL
- T...
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000E0E5EF65B596DC010000000000000
  000100000009B5B4B393268604BAFD7B947BABADC53
 DTSTAMP:20260212T143544Z
