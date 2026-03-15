@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Outlook Calendar Feed
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000CDD80D95D19BDC010000000000000
- 000100000001B5B146C1BCA8142A345740371417D9D
-DTSTAMP:20260213T175655Z
-DTSTART:20260213T130000Z
-DTEND:20260213T140000Z
-SUMMARY:Review Project Ultrasound Needs and Pulse Sequences
-LOCATION:Microsoft Teams Meeting
-DESCRIPTION:I will have description of pulse sequences needed and desired
-  sent by Thur night.\n\nGoals: \n\n1.	\n	Get to know the system\n2.	\n	Re
- view the desired pulse sequences\n3.	\n	Discuss changes needed to address
-  future needs\n\n\n\n____________________________________________________
- ____________________________\nMicrosoft Teams meeting \nJoin: https://tea
- ms.microsoft.com/meet/28482124555878?p=SloayaTP5mkuxCKXfk \nMeeting ID: 2
- 84 821 245 558 78 \nPasscode: 9zH9yL9x \n________________________________
- \n...
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E008000000007008D4D8479BDC010000000000000
  00010000000696EEAD0B7860E4D87207FF13854F551
 DTSTAMP:20260213T175650Z
