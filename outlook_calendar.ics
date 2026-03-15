@@ -6,25 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Outlook Calendar Feed
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000604D2771BF8ADC010000000000000
- 0001000000067333B9A2FEB4D4684C2375477283513
-DTSTAMP:20260213T175653Z
-DTSTART:20260213T160000Z
-DTEND:20260213T170000Z
-SUMMARY:Ortho-BME Staff Candidate Seminar - Cecilia Pascual Garrido\, MD\
- , PhD
-LOCATION:NE1-205 / MS Teams
-DESCRIPTION:\n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams meeting \n\nJoin: https://team
- s.microsoft.com/meet/2365465784335?p=W8fxD7TSXIkIghTwpF <https://teams.mi
- crosoft.com/meet/2365465784335?p=W8fxD7TSXIkIghTwpF>  \n\nMeeting ID: 236
-  546 578 433 5 \n\nPasscode: xc2zE6go \n\n_______________________________
- _\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  | System re
- ference <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTA2OTQzN
- D...
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E008000000003CEE6471B854DC010000000000000
  0001000000066E0F58D0A61134086F0D675C0352F40
 DTSTAMP:20260213T133405Z
