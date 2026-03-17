@@ -287,20 +287,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E008000000003F514E365FA6DC010000000000000
  00010000000855BD17920D6AD4FB20DA8E837D6CB14
-DTSTAMP:20260302T163755Z
+DTSTAMP:20260317T123043Z
 DTSTART:20260323T160000Z
 DTEND:20260323T163000Z
-SUMMARY:US ERCP
+SUMMARY:Canceled: US ERCP
 LOCATION:Microsoft Teams Meeting
-DESCRIPTION:\n___________________________________________________________
- _____________________\nMicrosoft Teams meeting \nJoin: https://teams.micr
- osoft.com/meet/29877411834648?p=p81tBLy5zeyxuQoJrj \nMeeting ID: 298 774 
- 118 346 48 \nPasscode: h7NE3X23 \n________________________________\n\nNee
- d help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  | System reference 
- <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTg4OWM1YTQtYjA3M
- y00OTkzLWJkMTctYjA3NTVlYWNjMTkz%40thread.v2/0?context=%7b%22Tid%22%3a%22c
- f...
-TRANSP:OPAQUE
+DESCRIPTION:Reaching out to reschedule. Dr. Bhatt is OOO
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E008000000004F12D48B48B2DC010000000000000
