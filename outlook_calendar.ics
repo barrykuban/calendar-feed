@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Outlook Calendar Feed
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000B82FC56B3BECDB010000000000000
- 00010000000E37AA66CF4FD7F49B0897A6E75C5A785
-DTSTAMP:20260218T174508Z
-DTSTART:20260218T180000Z
-DTEND:20260218T193000Z
-SUMMARY:Research Associate and Project Scientist Meeting
-LOCATION:NC1-202
-DESCRIPTION: \n\n________________________________________________________
- ________________________\n\nMicrosoft Teams meeting \n\nJoin: https://tea
- ms.microsoft.com/meet/26498960841808?p=zoXygKNJY6YQYuB610 <https://teams.
- microsoft.com/meet/26498960841808?p=zoXygKNJY6YQYuB610>  \n\nMeeting ID: 
- 264 989 608 418 08 \n\nPasscode: kk96dE3W \n\n___________________________
- _____\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  | Syste
- m reference <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDRkZ
- m...
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000F00B6945D6A0DC010000000000000
  000100000003939D5A0FFF7C346890C9D6334FA8D9D
 DTSTAMP:20260218T192042Z
@@ -396,6 +378,17 @@ DESCRIPTION:Good Morning\,\n\nThis is the recurring invitation for our mo
  nthly managers’ meeting. Please note that the November and December sessi
  ons will be moved to the third Thursday of the month to avoid holiday con
  flicts.\n\nThank you\,\nColleen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000008418AB403CECDB010000000000000
+ 000100000000B583E066525AE4D825D84B4C223D474
+DTSTAMP:20260305T211523Z
+DTSTART:20260916T170000Z
+DTEND:20260916T183000Z
+SUMMARY:Research Associate and Project Scientist Meeting 
+LOCATION:NC1-202
+DESCRIPTION: \n
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
