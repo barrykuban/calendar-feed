@@ -223,19 +223,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000206B516CBEBADC010000000000000
  000100000002C61A24E45107F4BB5E9B023DFCCED74
-DTSTAMP:20260323T162812Z
-DTSTART:20260323T163000Z
-DTEND:20260323T170000Z
+DTSTAMP:20260323T171610Z
+DTSTART:20260324T193000Z
+DTEND:20260324T200000Z
 SUMMARY:Follow up on RFID CSF shunt flow meter
 LOCATION:Microsoft Teams Meeting
-DESCRIPTION:Ahmed\,\n\n \n\nIf you are available\, let’s connect live and
-  discuss potential development next steps with Barry.\n\n \n\nShaher\n\n_
- _________________________________________________________________________
- ______\n\nMicrosoft Teams meeting \n\nJoin: https://teams.microsoft.com/m
- eet/28790636652361?p=mVvjGxMOZPFAOBR5CA <https://teams.microsoft.com/meet
- /28790636652361?p=mVvjGxMOZPFAOBR5CA>  \n\nMeeting ID: 287 906 366 523 61
-  \n\nPasscode: cY9Yz3Bv \n\n________________________________\n\nNeed help
- ? <...
+DESCRIPTION:Let’s try tomorrow at 3:30 and hopefully Ahmed\, you are avai
+ lable.\n\n \n\n \n\nAhmed\,\n\n \n\nIf you are available\, let’s connect 
+ live and discuss potential development next steps with Barry.\n\n \n\nSha
+ her\n\n__________________________________________________________________
+ ______________\n\nMicrosoft Teams meeting \n\nJoin: https://teams.microso
+ ft.com/meet/28790636652361?p=mVvjGxMOZPFAOBR5CA <https://teams.microsoft.
+ com/meet/28790636652361?p=mVvjGxMOZPFAOBR5CA>  \n\nMeeting ID: 287 906 36
+ 6 52...
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -254,6 +254,15 @@ DESCRIPTION:Good Afternoon!\n\nThis month's topic for the Leader-Guided D
  ms meeting \nJoin: https://teams.microsoft.com/meet/21700343796461?p=UgCk
  Mbafm4zHuRCma7 \nMeeting ID: 217 003 437 964 61 \nPasscode: 9EB3NW6L \n__
  ____...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000D0AEBBE8C5BADC010000000000000
+ 00010000000168ED095C7C57846B4046834EB7E38C7
+DTSTAMP:20260323T170657Z
+DTSTART:20260326T153000Z
+DTEND:20260326T160000Z
+SUMMARY:Tour?
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
