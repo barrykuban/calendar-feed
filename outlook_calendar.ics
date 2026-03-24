@@ -221,6 +221,24 @@ DESCRIPTION:Please accept this invitation to meet with George Komatsoulis
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000051321C5C96BBDC010000000000000
+ 000100000005EBB3E74F80F2143802470F5F6288DF3
+DTSTAMP:20260324T140419Z
+DTSTART:20260324T140000Z
+DTEND:20260324T143000Z
+SUMMARY:IDF - Wireless EKG draft review
+LOCATION:Microsoft Teams Meeting
+DESCRIPTION:​IDF_Kuban_ECG v20260215nb.docx <https://clevelandclinic-my.s
+ harepoint.com/:w:/g/personal/byramn_ccf_org/IQAqlBrCM45fQ7g14Y5Jj-8xAW-lV
+ BFslhoivTPnFqPUhus?e=wkYDTC> ​ \n\n______________________________________
+ __________________________________________\nMicrosoft Teams meeting \nJoi
+ n: https://teams.microsoft.com/meet/22026042149956?p=eAvif9WdYSt5xSTM02 \
+ nMeeting ID: 220 260 421 499 56 \nPasscode: 53j8Wx6P \n__________________
+ ______________\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+  ...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000206B516CBEBADC010000000000000
  000100000002C61A24E45107F4BB5E9B023DFCCED74
 DTSTAMP:20260323T200742Z
