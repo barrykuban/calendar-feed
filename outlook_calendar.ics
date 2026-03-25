@@ -330,6 +330,23 @@ DESCRIPTION:\n
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000502985BEA8BBDC010000000000000
+ 000100000004ABA95B0AC740641997C283418B048FB
+DTSTAMP:20260325T162941Z
+DTSTART:20260415T140000Z
+DTEND:20260415T150000Z
+SUMMARY:MDS Welcome Breakfast
+LOCATION:BME Commons
+DESCRIPTION:Join us for a warm and spirited welcome as we celebrate the r
+ eturn of our MDS colleagues to the BME community!\n\n \n\nWe’re delighted
+  to have you back and look forward to reconnecting\, building new collabo
+ rations\, and continuing our shared work together. \n\n \n\nBreakfast wil
+ l be served as we gather informally from 10:00–11:00 AM in the BME Common
+ s.\n\n \n\nWe hope you’ll stop by to say hello and help us mark this spec
+ ial homecoming!\n\n \n
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000CCB8889AA280DC010000000000000
  00010000000237BF2F30449844EB4B375173FE6E65A
 DTSTAMP:20260210T151401Z
