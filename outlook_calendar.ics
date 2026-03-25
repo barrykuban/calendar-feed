@@ -277,20 +277,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000040B0025992BBDC010000000000000
  00010000000EAE8D5F1DE0BD04F89AD2506028365B9
-DTSTAMP:20260324T201457Z
+DTSTAMP:20260325T165611Z
 DTSTART:20260325T193000Z
 DTEND:20260325T200000Z
-SUMMARY:EPIC x CCF - Virtual technology demo
+SUMMARY:Canceled: EPIC x CCF - Virtual technology demo
 LOCATION:Microsoft Teams Meeting
-DESCRIPTION:Linda\,\n\nPer our prior email communication\, this meeting i
- s another virtual demo/discussion with you\, Wolf and two of our team mem
- bers\, Barry & Aaron\, from the Electronics Core side of our Medical Devi
- ce Services group. \n\n \n\nShaher\n\n___________________________________
- _____________________________________________\n\nMicrosoft Teams meeting 
- \n\nJoin: https://teams.microsoft.com/meet/27479276702812?p=VMIP03bU5HcBE
- grMnr <https://teams.microsoft.com/meet/27479276702812?p=VMIP03bU5HcBEgrM
- nr>  \n...
-TRANSP:OPAQUE
+DESCRIPTION:Linda\,\n\n \n\nApologies\, but we will have to move this mee
+ ting past April 13th due to scheduling conflict internally.  Please let m
+ e know your availability for that week.\n\n \n\nShaher\n\n \n\n++++++++++
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ +++++++++++++++++++++++++++++\n\nPer our prior email communication\, this
+  meeting is another virtual demo/discussion with you\, Wolf and two of ou
+ r team members\, Barry & Aaron\, from the Electronics Core side of our Me
+ dical D...
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000C69D38D0EBB6DC010000000000000
