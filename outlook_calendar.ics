@@ -252,6 +252,24 @@ DESCRIPTION:Join us for a warm and spirited welcome as we celebrate the r
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000C00D5C4FECC0DC010000000000000
+ 0001000000032A6ED490C376C4E8336778CDC96B226
+DTSTAMP:20260331T130259Z
+DTSTART:20260415T193000Z
+DTEND:20260415T203000Z
+SUMMARY:Hold the spot - CCF/EPIC Semiconductor - Technology Demo
+LOCATION:Microsoft Teams Meeting
+DESCRIPTION:Hello\,\n\n \n\nTentative time spot held for demonstration of
+  the EPIC semiconductors technology.\n\n \n\nShaher\n\n__________________
+ ______________________________________________________________\n\nMicroso
+ ft Teams meeting \n\nJoin: https://teams.microsoft.com/meet/2973654291863
+ 9?p=wfYxYn6mcfV8FyO1hl <https://teams.microsoft.com/meet/29736542918639?p
+ =wfYxYn6mcfV8FyO1hl>  \n\nMeeting ID: 297 365 429 186 39 \n\nPasscode: QS
+ 9kT9tR \n\n________________________________\n\nNeed help? <https://aka.ms
+ /J...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000CCB8889AA280DC010000000000000
  00010000000237BF2F30449844EB4B375173FE6E65A
 DTSTAMP:20260210T151401Z
