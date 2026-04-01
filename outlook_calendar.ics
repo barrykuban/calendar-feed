@@ -208,6 +208,24 @@ DESCRIPTION:\n
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00807EA0401FC99D07FBB6BDC010000000000000
+ 000100000002F4B00FBEF044E4FB60BA4C2C33E34F5
+DTSTAMP:20260401T180302Z
+DTSTART:20260401T180000Z
+DTEND:20260401T183000Z
+SUMMARY:Roboheart Project Meeting 
+LOCATION:Microsoft Teams Meeting
+DESCRIPTION:\n___________________________________________________________
+ _____________________ \nMicrosoft Teams meeting\nJoin on your computer\, 
+ mobile app or room device \nClick here to join the meeting <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_NGZkNzYwNTEtNDEzNy00YjkxLTllOWI
+ tNzVlOGMwNjA2ZDI1%40thread.v2/0?context=%7b%22Tid%22%3a%22cf7ff65a-ced6-4
+ 00c-9856-fcac58ff39e8%22%2c%22Oid%22%3a%22063d3a98-e456-4b9b-b27e-45c07f6
+ 4128c%22%7d> \nMeeting ID: 229 058 456 485\nPasscode: 3ThtbZ \nDownload T
+ ea...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000800DE75B5EC0DC010000000000000
  0001000000013FECFFCDF6BB14A8616E2A2B46C74F0
 DTSTAMP:20260330T200114Z
@@ -232,6 +250,24 @@ DESCRIPTION:\n___________________________________________________________
  ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_MzdmMDg0MzItNmNkYi0
  0ZGFiLWJhZWUtZWE5ZGRmMTk2MjY1%40thread.v2/0?context=%7b%22Tid%22%3a%22cf7
  f...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000008001AD15919DDB010000000000000
+ 00010000000BB64DEC1B7A9CA4884B6F0E2C74A671D
+DTSTAMP:20260401T174402Z
+DTSTART:20260410T150000Z
+DTEND:20260410T160000Z
+SUMMARY:APT/BME Seminar: Alberto Esquenazi\, MD
+LOCATION:Microsoft Teams Meeting
+DESCRIPTION: \n\n________________________________________________________
+ ________________________\n\nMicrosoft Teams Need help? <https://aka.ms/Jo
+ inTeamsMeeting?omkt=en-US>  \n\nJoin the meeting now <https://teams.micro
+ soft.com/l/meetup-join/19%3ameeting_ZDZkMTQ5ODAtZjI1OC00MzcwLWE0NzAtZjZkN
+ zgzNmE2Nzgw%40thread.v2/0?context=%7b%22Tid%22%3a%22cf7ff65a-ced6-400c-98
+ 56-fcac58ff39e8%22%2c%22Oid%22%3a%221286f5ca-d52b-49b0-85f6-3deee51d2521%
+ 22%7d>  \n\nMeeting ID: 219 194 608 636 91 \n\nPasscode: 6U3sa9gZ \n\n___
+ _...
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
