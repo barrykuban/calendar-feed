@@ -269,6 +269,24 @@ DESCRIPTION: \n\n________________________________________________________
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000000569DE2879C3DC010000000000000
+ 000100000002FCF53AE012E684D8C34908518FB71A8
+DTSTAMP:20260403T145321Z
+DTSTART:20260410T183000Z
+DTEND:20260410T193000Z
+SUMMARY:2026-005 prototype update meeting
+LOCATION:Microsoft Teams Meeting
+DESCRIPTION:Lola\, if you can make this meeting great\, if not i will tak
+ e photos and upload to our teams channel. The go-no-go (GNG) meeting for 
+ this moving forward or not is 4/22/2026 so getting this done sooner than 
+ later is best so that the team is on the same page on what is going into 
+ the GNG. \n\nBarry and Michael if you can show us the latest carriage mod
+ el and the latest working of the prototype that would be great. \n\n_____
+ _________________________________________________________________________
+ __\n...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000502985BEA8BBDC010000000000000
  000100000004ABA95B0AC740641997C283418B048FB
 DTSTAMP:20260327T010938Z
@@ -306,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E008000000002A393C0366C3DC010000000000000
  00010000000285F15590406BD4E984B28ED6CA99416
-DTSTAMP:20260403T123403Z
+DTSTAMP:20260403T152704Z
 DTSTART:20260420T170000Z
 DTEND:20260420T173000Z
 SUMMARY:US ERCP
