@@ -212,9 +212,27 @@ DESCRIPTION:\n___________________________________________________________
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000004729A6A9D1C1DC010000000000000
+ 000100000007B572177751B69488FD9625BF50ECCB3
+DTSTAMP:20260406T162511Z
+DTSTART:20260406T163000Z
+DTEND:20260406T170000Z
+SUMMARY:ERCP device (IDF 2025-207)
+LOCATION:A3-271
+DESCRIPTION:\n________________________________\n\nFrom: Bhatt\, Amit\nSen
+ t: Wednesday\, April 1\, 2026 8:18:40 AM\nTo: Dombrowski\, Ph.D\, Stephen
+  <dombros@ccf.org>\; West\, Karl <westk2@ccf.org>\; Gao\, Shengqiang <gao
+ s@ccf.org>\nSubject: ERCP device (IDF 2025-207)\nWhen: Monday\, April 6\,
+  2026 12:30 PM-1:00 PM.\nWhere: A3-271 \n \n\n___________________________
+ _____________________________________________________\nMicrosoft Teams me
+ eting \nJoin: https://teams.microsoft.com/meet/271654736241065?p=Wt2VwPK6
+ Ph3EWpFO2k \n...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000020962F3FEFC1DC010000000000000
  000100000000F53C9C17239974E89DD6F2F75B21F49
-DTSTAMP:20260402T182021Z
+DTSTAMP:20260406T160602Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260408
 SUMMARY:Carnegie Mellon Quantum Center Annual Update
