@@ -313,6 +313,24 @@ LOCATION:A3-271
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000FC5ABAFD4ACBDC010000000000000
+ 00010000000EC115D7586EB1C439D3CA6DF9E495410
+DTSTAMP:20260413T142627Z
+DTSTART:20260421T133000Z
+DTEND:20260421T140000Z
+SUMMARY:MDS Leader-Guided Discussion\, NC1-202: Why and How We Care
+LOCATION:"NC1-202"
+DESCRIPTION:Good Morning\,\n\nThis month's topic for the Leader-Guided Di
+ scussion is Why and How We Care.\n\nPlease plan to attend in person\, if 
+ possible\, as this will allow for the most engaging and meaningful discus
+ sion.\n\nI will also be collecting photos to share. I’m hopeful there wer
+ e some exciting moments from the past month and would love to highlight t
+ hem through photos.\n\nThank you\,\nColleen\n\n\n________________________
+ ________________________________________________________\nMicrosoft Teams
+  meet...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000CCB8889AA280DC010000000000000
  00010000000237BF2F30449844EB4B375173FE6E65A
 DTSTAMP:20260210T151401Z
