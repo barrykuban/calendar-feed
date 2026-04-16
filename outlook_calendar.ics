@@ -313,6 +313,24 @@ LOCATION:A3-271
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000050566ED479CDDC010000000000000
+ 00010000000DB637E7A1CD1D246A4A08739FB58418E
+DTSTAMP:20260416T123000Z
+DTSTART:20260420T173000Z
+DTEND:20260420T180000Z
+SUMMARY:CCF/EPIC Semiconductor - Technology Demo
+LOCATION:MS Teams meeting
+DESCRIPTION:Gentlemen\,\n\n \n\nThis is the nearest time for a meeting to
+  discuss possibilities regarding EPIC Semiconductor technology/applicatio
+ ns.\n\n \n\nShaher\n\n \n\n \n\nMicrosoft Teams meeting \n\nJoin: https:/
+ /teams.microsoft.com/meet/29736542918639?p=wfYxYn6mcfV8FyO1hl <https://te
+ ams.microsoft.com/meet/29736542918639?p=wfYxYn6mcfV8FyO1hl>  \n\nMeeting 
+ ID: 297 365 429 186 39 \n\nPasscode: QS9kT9tR \n\n_______________________
+ _________\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  | S
+ ys...
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000FC5ABAFD4ACBDC010000000000000
  00010000000EC115D7586EB1C439D3CA6DF9E495410
 DTSTAMP:20260413T174344Z
