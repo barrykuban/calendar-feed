@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Outlook Calendar Feed
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000206B516CBEBADC010000000000000
- 000100000002C61A24E45107F4BB5E9B023DFCCED74
-DTSTAMP:20260323T200742Z
-DTSTART:20260324T193000Z
-DTEND:20260324T200000Z
-SUMMARY:Follow up on RFID CSF shunt flow meter
-LOCATION:Microsoft Teams Meeting
-DESCRIPTION:Let’s try tomorrow at 3:30 and hopefully Ahmed\, you are avai
- lable.\n\n \n\n \n\nAhmed\,\n\n \n\nIf you are available\, let’s connect 
- live and discuss potential development next steps with Barry.\n\n \n\nSha
- her\n\n__________________________________________________________________
- ______________\n\nMicrosoft Teams meeting \n\nJoin: https://teams.microso
- ft.com/meet/28790636652361?p=mVvjGxMOZPFAOBR5CA <https://teams.microsoft.
- com/meet/28790636652361?p=mVvjGxMOZPFAOBR5CA>  \n\nMeeting ID: 287 906 36
- 6 52...
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E008000000004F12D48B48B2DC010000000000000
  00010000000F0CC343878AE9948AE67472CB0854A33
 DTSTAMP:20260326T154605Z
